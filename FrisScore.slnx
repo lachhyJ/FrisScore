@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FrisScore.API/FrisScore.API.csproj" />
+  <Project Path="FrisScore.Core/FrisScore.Core.csproj" />
+</Solution>

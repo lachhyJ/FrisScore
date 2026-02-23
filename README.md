@@ -1,1 +1,1 @@
-# Fris-Score
+# FrisScore
