@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FrisScore.Core.Migrations
 {
     [DbContext(typeof(FrisScoreDbContext))]
-    [Migration("20260224055508_InitialCreate")]
+    [Migration("20260224060549_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

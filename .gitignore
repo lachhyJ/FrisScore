@@ -480,3 +480,13 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+
+*.db
+*.db-shm
+*.db-wal
+
+FrisScore.API/bin/
+FrisScore.API/obj/
+FrisScore.Core/bin/
+FrisScore.Core/obj/
